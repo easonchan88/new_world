@@ -10,4 +10,5 @@
 function aaa{
 }
 function bbb{
+test2
 }
